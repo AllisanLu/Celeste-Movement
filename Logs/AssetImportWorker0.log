@@ -140,3 +140,4 @@ Received Import Request.
   path: Assets/Animations/Visual.controller
   artifactKey: Guid(1d174b79c552f7d4f87f90afce853d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Animations/Visual.controller using Guid(1d174b79c552f7d4f87f90afce853d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ceb6bd06a518a7763c8837f834c87b3') in 0.048246 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
